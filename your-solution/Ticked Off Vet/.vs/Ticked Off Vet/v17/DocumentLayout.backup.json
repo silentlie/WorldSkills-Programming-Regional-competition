@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\The-Silent-Lie\\Downloads\\WorldSkills-Programming-Regional-competition\\your-solution\\Ticked Off Vet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8272F650-FD7F-4353-82A6-D6F735CBB441}|MainApplication\\MainApplication.csproj|c:\\users\\the-silent-lie\\downloads\\worldskills-programming-regional-competition\\your-solution\\ticked off vet\\mainapplication\\view\\usercontrols\\managepets.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8272F650-FD7F-4353-82A6-D6F735CBB441}|MainApplication\\MainApplication.csproj|solutionrelative:mainapplication\\view\\usercontrols\\managepets.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8272F650-FD7F-4353-82A6-D6F735CBB441}|MainApplication\\MainApplication.csproj|c:\\users\\the-silent-lie\\downloads\\worldskills-programming-regional-competition\\your-solution\\ticked off vet\\mainapplication\\view\\usercontrols\\managepets.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8272F650-FD7F-4353-82A6-D6F735CBB441}|MainApplication\\MainApplication.csproj|solutionrelative:mainapplication\\view\\usercontrols\\managepets.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8272F650-FD7F-4353-82A6-D6F735CBB441}|MainApplication\\MainApplication.csproj|c:\\users\\the-silent-lie\\downloads\\worldskills-programming-regional-competition\\your-solution\\ticked off vet\\mainapplication\\view\\usercontrols\\homecontent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8272F650-FD7F-4353-82A6-D6F735CBB441}|MainApplication\\MainApplication.csproj|solutionrelative:mainapplication\\view\\usercontrols\\homecontent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagePets.xaml",
+              "DocumentMoniker": "C:\\Users\\The-Silent-Lie\\Downloads\\WorldSkills-Programming-Regional-competition\\your-solution\\Ticked Off Vet\\MainApplication\\View\\UserControls\\ManagePets.xaml",
+              "RelativeDocumentMoniker": "MainApplication\\View\\UserControls\\ManagePets.xaml",
+              "ToolTip": "C:\\Users\\The-Silent-Lie\\Downloads\\WorldSkills-Programming-Regional-competition\\your-solution\\Ticked Off Vet\\MainApplication\\View\\UserControls\\ManagePets.xaml",
+              "RelativeToolTip": "MainApplication\\View\\UserControls\\ManagePets.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T04:53:21.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagePets.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\The-Silent-Lie\\Downloads\\WorldSkills-Programming-Regional-competition\\your-solution\\Ticked Off Vet\\MainApplication\\View\\UserControls\\ManagePets.xaml.cs",
+              "RelativeDocumentMoniker": "MainApplication\\View\\UserControls\\ManagePets.xaml.cs",
+              "ToolTip": "C:\\Users\\The-Silent-Lie\\Downloads\\WorldSkills-Programming-Regional-competition\\your-solution\\Ticked Off Vet\\MainApplication\\View\\UserControls\\ManagePets.xaml.cs",
+              "RelativeToolTip": "MainApplication\\View\\UserControls\\ManagePets.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:53:18.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeContent.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\The-Silent-Lie\\Downloads\\WorldSkills-Programming-Regional-competition\\your-solution\\Ticked Off Vet\\MainApplication\\View\\UserControls\\HomeContent.xaml.cs",
+              "RelativeDocumentMoniker": "MainApplication\\View\\UserControls\\HomeContent.xaml.cs",
+              "ToolTip": "C:\\Users\\The-Silent-Lie\\Downloads\\WorldSkills-Programming-Regional-competition\\your-solution\\Ticked Off Vet\\MainApplication\\View\\UserControls\\HomeContent.xaml.cs",
+              "RelativeToolTip": "MainApplication\\View\\UserControls\\HomeContent.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:42:09.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
